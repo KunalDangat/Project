@@ -1,0 +1,40 @@
+@media (476px <=width <=1000px) {
+    .login-box {
+        transform: translate(41%, 30%);
+        margin-bottom: 40%;
+        margin-top: 15%;
+    }
+
+    #head h4 a {
+        padding-left: 0px;
+    }
+
+}
+
+@media (50px <=width <=475px) {
+    .login-box {
+        padding: 5px 40px;
+        width: 350px;
+        height: 550px;
+        transform: translate(4%, 30%);
+        margin-bottom: 80%;
+        margin-top: 10%;
+    }
+    .login-box h2 {
+        font-size: medium;
+    }
+
+    .login-box h2 span {
+        font-size: xx-large;
+    }
+
+    .login-box button img {
+        width: 18px;
+        margin-right: 10px;
+    }
+
+    .login-box button {
+        width: 100%;
+    }
+
+}

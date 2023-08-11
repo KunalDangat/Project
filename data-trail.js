@@ -1,0 +1,51 @@
+let shopItemsData = [
+    {
+      id: "jfhgbvnscs",
+      name: "Casual Shirt",
+      price: 45,
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      desc2:"Lorem",
+      img: "img/nike 1.webp",
+    },
+    {
+      id: "ioytrhndcv",
+      name: "Office Shirt",
+      price: 100,
+      desc: "Lorem",
+      desc2:"Lorem",
+      img: "img/nike 1.webp",
+    },
+    {
+      id: "wuefbncxbsn",
+      name: "T Shirt",
+      price: 25,
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      desc2:"Lorem",
+      img: "img/nike 1.webp",
+    },
+    {
+      id: "thyfhcbcv",
+      name: "Mens Suit",
+      price: 300,
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      desc2:"Lorem",
+      img: "img/nike 1.webp",
+    },
+    {
+      id: "thyfhcbcv",
+      name: "Mens Suit",
+      price: 300,
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      desc2:"Lorem",
+      img: "img/nike 1.webp",
+    },
+    {
+      id: "thyfhcbcv",
+      name: "Mens Suit",
+      price: 300,
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      desc2:"Lorem",
+      img: "img/nike 1.webp",
+    },
+];
+  
