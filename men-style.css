@@ -97,7 +97,7 @@ body {
 /* header start */
 
 #men-head {
-        background-image: url("img/men/menfashion.jpg");
+        background-image: url("img/menfashion.jpg");
         height: 130vh;
         display: flex;
         /* align-items: center; */
